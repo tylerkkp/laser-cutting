@@ -4,7 +4,7 @@ This is the home for all of my laser-cutting projects. Please feel free to downl
 
 ![Lamp Photo](https://github.com/tylerkkp/laser-cutting/blob/master/IMG_1887.JPG "Voronoi Lamps")
 
-### Materials List:
+### Bill of Materials:
 
 * 6mm thick wood (I used baltic birch plywood) or acrylic or ???
 * 50+ Watt CO2 Laser Cutter
